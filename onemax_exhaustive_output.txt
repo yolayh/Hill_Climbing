@@ -1,0 +1,4 @@
+excecution time:1800
+
+The final solution is: 000001111111111111111111111111
+The number of one: 25
