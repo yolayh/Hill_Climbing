@@ -1,5 +1,5 @@
 # One max problem
 
-####1. Using Hill Climbing algorithm
+#### 1. Using Hill Climbing algorithm
 
-####2. Exhaustive: run 30 minutes 
+#### 2. Exhaustive: run 30 minutes 
