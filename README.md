@@ -1,2 +1,5 @@
-# Hill_Climbing_OneMax
-Using Hill Climbing to solve One max problem
+# One max problem
+
+####1. Using Hill Climbing algorithm
+
+####2. Exhaustive: run 30 minutes 
